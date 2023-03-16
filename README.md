@@ -5,7 +5,7 @@
 ##
 
 ### 🍃 *Sobre mim:*
-*Estudante de Ciência da Computação em busca de uma oportunidade de estágio na área de TI. Tenho grande interesse em front-end, ux design e governança de dados. Procuro me desenvolver em novas habilidades e tecnologias. 🌻🤍*
+*Estudante de Ciência da Computação em busca de uma oportunidade de estágio na área de TI. Tenho grande interesse em front-end e ux design. Procuro me desenvolver em novas habilidades e tecnologias. 🌻🤍*
 
 ##
 
