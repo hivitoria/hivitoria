@@ -36,19 +36,16 @@
 
 ##
   
-### 🌱 *Stack*
+### 🌱 *What I Build With*  
+Technologies I use in my daily development routine. 🌻
 
 <div align="center">
-  <table>
+  <table border="0" cellspacing="10">
     <tr>
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"></td>
-      <td width="20"></td>
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"></td>
-      <td width="20"></td>
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"></td>
-      <td width="20"></td>
       <td><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"></td>
-      <td width="20"></td>
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"></td>
     </tr>
   </table>
@@ -56,10 +53,11 @@
 
 ##
 
-### 🌿 *Other Skills*
+### 🌿 *Tools I’ve Planted Along the Way*  
+Other tools, languages, and frameworks I’ve worked with or explored. 🌿✨
 
 <div align="center">
-  <table>
+  <table border="0" cellspacing="10">
     <tr>
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"></td>
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"></td>
